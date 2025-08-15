@@ -1,6 +1,5 @@
 <div align="center"><img src="https://i.imgur.com/1gXx8vM.png" width="280px"/></div>
-
-## Featured projects
+<p></p>
 
 <table>
   <tbody>
